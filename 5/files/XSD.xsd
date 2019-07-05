@@ -1,0 +1,9 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+<complexType name="StudParam">
+	<sequence>
+		<element name="name" 	  type="String" />
+		<element name="surname"   type="String" />
+		<element name="course" 	  type="int" />
+	</sequence>
+</complexType>
+</schema>

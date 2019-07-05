@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<STUDENTS>
+    <STUDENT>
+        <NAME>Екатерина</NAME>
+        <SURNAME>Прекрасная</SURNAME>
+        <COURSE> 2 </COURSE>
+
+    </STUDENT>
+
+    <STUDENT>
+        <NAME>Андрей</NAME>
+        <SURNAME>Бессмертный</SURNAME>
+        <COURSE> 1 </COURSE>
+        <A>/n</A>
+
+    </STUDENT>
+
+    <STUDENT>
+        <NAME>Владислав</NAME>
+        <SURNAME>Дурак</SURNAME>
+        <COURSE> 3 </COURSE>
+
+    </STUDENT>
+</STUDENTS>

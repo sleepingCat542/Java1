@@ -1,0 +1,43 @@
+29.03.2019  00:08:02 [main] INFO  com.company.Main 27  - Starting program_______________________
+29.03.2019  00:08:02 [main] INFO  com.company.Main 28  - Create Decan(singleton)
+29.03.2019  00:08:02 [main] INFO  com.company.Main 30  - Create first(Potok) by FactoryMethod
+29.03.2019  00:08:02 [main] INFO  com.company.Main 32  - create and Add students to potok
+29.03.2019  00:08:02 [main] INFO  com.company.Main 55  - Counter of courses
+29.03.2019  00:08:02 [main] INFO  com.company.Main 63  - Sorting by name
+29.03.2019  00:08:02 [main] INFO  com.company.Main 81  - End Program___________
+29.03.2019  00:08:37 [main] INFO  com.company.Main 27  - Starting program_______________________
+29.03.2019  00:08:37 [main] INFO  com.company.Main 28  - Create Decan(singleton)
+29.03.2019  00:08:37 [main] INFO  com.company.Main 30  - Create first(Potok) by FactoryMethod
+29.03.2019  00:08:37 [main] INFO  com.company.Main 32  - create and Add students to potok
+29.03.2019  00:08:37 [main] INFO  com.company.Main 55  - Counter of courses
+29.03.2019  00:08:37 [main] INFO  com.company.Main 63  - Sorting by name
+29.03.2019  00:08:37 [main] INFO  com.company.Main 81  - End Program___________
+29.03.2019  00:19:36 [main] INFO  com.company.Main 25  - Starting program_______________________
+29.03.2019  00:19:36 [main] INFO  com.company.Main 26  - Create Decan
+29.03.2019  00:19:36 [main] INFO  com.company.Main 28  - Create first(Potok) by FactoryMethod
+29.03.2019  00:19:36 [main] INFO  com.company.Main 30  - create and Add students to potok
+29.03.2019  00:19:36 [main] INFO  com.company.Main 53  - Counter of courses
+29.03.2019  00:19:36 [main] INFO  com.company.Main 61  - Sorting by name
+29.03.2019  00:19:36 [main] INFO  com.company.Main 79  - End Program___________
+29.03.2019  00:22:10 [main] INFO  com.company.Main 25  - Starting program_______________________
+29.03.2019  00:22:10 [main] INFO  com.company.Main 26  - Create Decan
+29.03.2019  00:22:10 [main] INFO  com.company.Main 28  - Create first(Potok) by FactoryMethod
+29.03.2019  00:22:10 [main] INFO  com.company.Main 30  - create and Add students to potok
+29.03.2019  00:22:10 [main] INFO  com.company.Main 53  - Counter of courses
+29.03.2019  00:22:10 [main] INFO  com.company.Main 61  - Sorting by name
+29.03.2019  00:22:10 [main] INFO  com.company.Main 79  - End Program___________
+29.03.2019  01:52:47 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  01:53:54 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  02:44:06 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  02:55:50 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  02:55:51 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  02:59:16 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  03:01:53 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  03:18:48 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:16:28 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:18:14 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:19:45 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:20:46 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:22:44 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:28:31 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+29.03.2019  09:29:54 [main] ERROR by.Khadasevich.Parser.ValidatorXSD 37  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.

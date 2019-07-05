@@ -1,0 +1,6 @@
+05.07.2019 23:34:32 [main] INFO  com.company.Main  - Устанавливаем соединение с БД
+05.07.2019 23:34:33 [main] ERROR com.company.Main  - Error:No suitable driver found for jdbc:mysql://localhost:3306/KillMe
+05.07.2019 23:36:00 [main] INFO  com.company.Main  - Устанавливаем соединение с БД
+05.07.2019 23:36:00 [main] ERROR com.company.Main  - Error:No suitable driver found for jdbc:mysql://localhost:3306/KillMe
+05.07.2019 23:36:29 [main] INFO  com.company.Main  - Устанавливаем соединение с БД
+05.07.2019 23:36:29 [main] ERROR com.company.Main  - Error:No suitable driver found for jdbc:mysql://localhost:3306/KillMe

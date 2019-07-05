@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="testng-6.8.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/testng-6.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lab05.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/lab05.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

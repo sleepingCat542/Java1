@@ -1,0 +1,2 @@
+10.05.2019 09:05:25 [main] INFO  com.company.Main  - Устанавливаем соединение с БД
+10.05.2019 09:05:25 [main] ERROR com.company.Main  - Error:No suitable driver found for jdbc:mysql://localhost:3306/KillMe

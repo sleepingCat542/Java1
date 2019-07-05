@@ -1,0 +1,7 @@
+05.07.2019  23:24:06 [main] INFO  com.company.Main 25  - Starting program_______________________
+05.07.2019  23:24:07 [main] INFO  com.company.Main 26  - Create Decan
+05.07.2019  23:24:07 [main] INFO  com.company.Main 28  - Create first(Stream) by FactoryMethod
+05.07.2019  23:24:07 [main] INFO  com.company.Main 30  - create and Add students to potok
+05.07.2019  23:24:07 [main] INFO  com.company.Main 53  - Counter of courses
+05.07.2019  23:24:07 [main] INFO  com.company.Main 62  - Sorting by name
+05.07.2019  23:24:07 [main] INFO  com.company.Main 80  - End Program___________
